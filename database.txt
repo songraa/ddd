@@ -1,0 +1,25 @@
+create database TaskManagement;
+
+create table Users
+(
+EmployeeId int primary key,
+Name varchar(max) not null,
+Password varchar(max) not null,
+Email varchar(100) not null unique,
+EmployeeRole varchar(max)
+);
+
+create table Tasks
+(
+TaskId int primary key,
+Title varchar(max) not null,
+Description varchar(max),
+Status varchar(max),
+DueDate date,
+EmployeeId int foreign key
+references Users(EmployeeId)
+);
+
+insert into  Users(EmployeeId, Name, Password, Email, EmployeeRole)
+values (2,'salma', 'salma77','salma77@gmail.com', 'Employee'),
+ (1, 'songra', 'songra787','songra787@gmail.com', 'Manager');

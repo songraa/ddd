@@ -1,0 +1,83 @@
+C:\Users\Admin\source\repos\TaskManagement\TaskManagement\bin\Debug\TaskManagement.exe.config
+C:\Users\Admin\source\repos\TaskManagement\TaskManagement\bin\Debug\TaskManagement.exe
+C:\Users\Admin\source\repos\TaskManagement\TaskManagement\bin\Debug\TaskManagement.pdb
+C:\Users\Admin\source\repos\TaskManagement\TaskManagement\obj\Debug\TaskManagement.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\TaskManagement\TaskManagement\obj\Debug\LogIn.g.cs
+C:\Users\Admin\source\repos\TaskManagement\TaskManagement\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\source\repos\TaskManagement\TaskManagement\obj\Debug\App.g.cs
+C:\Users\Admin\source\repos\TaskManagement\TaskManagement\obj\Debug\TaskManagement_MarkupCompile.cache
+C:\Users\Admin\source\repos\TaskManagement\TaskManagement\obj\Debug\TaskManagement_MarkupCompile.lref
+C:\Users\Admin\source\repos\TaskManagement\TaskManagement\obj\Debug\LogIn.baml
+C:\Users\Admin\source\repos\TaskManagement\TaskManagement\obj\Debug\MainWindow.baml
+C:\Users\Admin\source\repos\TaskManagement\TaskManagement\obj\Debug\TaskManagement.g.resources
+C:\Users\Admin\source\repos\TaskManagement\TaskManagement\obj\Debug\TaskManagement.Properties.Resources.resources
+C:\Users\Admin\source\repos\TaskManagement\TaskManagement\obj\Debug\TaskManagement.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\TaskManagement\TaskManagement\obj\Debug\TaskManagement.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\TaskManagement\TaskManagement\obj\Debug\TaskManagement.exe
+C:\Users\Admin\source\repos\TaskManagement\TaskManagement\obj\Debug\TaskManagement.pdb
+C:\Users\Admin\source\repos\TaskManagement\TaskManagement\obj\Debug\Admin.g.cs
+C:\Users\Admin\source\repos\TaskManagement\TaskManagement\obj\Debug\ViewTask.g.cs
+C:\Users\Admin\source\repos\TaskManagement\TaskManagement\obj\Debug\Admin.baml
+C:\Users\Admin\source\repos\TaskManagement\TaskManagement\obj\Debug\ViewTask.baml
+C:\Users\Admin\source\repos\TaskManagement\TaskManagement\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\TaskManagement\TaskManagement\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\TaskManagement\TaskManagement\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\TaskManagement\TaskManagement\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\TaskManagement\TaskManagement\obj\Debug\TaskManagement_Content.g.cs
+C:\Users\Admin\source\repos\TaskManagement\TaskManagement\obj\Debug\TaskMana.75ABC965.Up2Date
+C:\Users\Admin\Desktop\Salma Elsayed W3\TaskManagement\TaskManagement\bin\Debug\TaskManagement.exe.config
+C:\Users\Admin\Desktop\Salma Elsayed W3\TaskManagement\TaskManagement\bin\Debug\TaskManagement.exe
+C:\Users\Admin\Desktop\Salma Elsayed W3\TaskManagement\TaskManagement\bin\Debug\TaskManagement.pdb
+C:\Users\Admin\Desktop\Salma Elsayed W3\TaskManagement\TaskManagement\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\Salma Elsayed W3\TaskManagement\TaskManagement\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Salma Elsayed W3\TaskManagement\TaskManagement\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\Salma Elsayed W3\TaskManagement\TaskManagement\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\Salma Elsayed W3\TaskManagement\TaskManagement\obj\Debug\TaskManagement.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Salma Elsayed W3\TaskManagement\TaskManagement\obj\Debug\Admin.g.cs
+C:\Users\Admin\Desktop\Salma Elsayed W3\TaskManagement\TaskManagement\obj\Debug\LogIn.g.cs
+C:\Users\Admin\Desktop\Salma Elsayed W3\TaskManagement\TaskManagement\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\Salma Elsayed W3\TaskManagement\TaskManagement\obj\Debug\ViewTask.g.cs
+C:\Users\Admin\Desktop\Salma Elsayed W3\TaskManagement\TaskManagement\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\Salma Elsayed W3\TaskManagement\TaskManagement\obj\Debug\TaskManagement_Content.g.cs
+C:\Users\Admin\Desktop\Salma Elsayed W3\TaskManagement\TaskManagement\obj\Debug\TaskManagement_MarkupCompile.cache
+C:\Users\Admin\Desktop\Salma Elsayed W3\TaskManagement\TaskManagement\obj\Debug\TaskManagement_MarkupCompile.lref
+C:\Users\Admin\Desktop\Salma Elsayed W3\TaskManagement\TaskManagement\obj\Debug\Admin.baml
+C:\Users\Admin\Desktop\Salma Elsayed W3\TaskManagement\TaskManagement\obj\Debug\LogIn.baml
+C:\Users\Admin\Desktop\Salma Elsayed W3\TaskManagement\TaskManagement\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\Salma Elsayed W3\TaskManagement\TaskManagement\obj\Debug\ViewTask.baml
+C:\Users\Admin\Desktop\Salma Elsayed W3\TaskManagement\TaskManagement\obj\Debug\TaskManagement.g.resources
+C:\Users\Admin\Desktop\Salma Elsayed W3\TaskManagement\TaskManagement\obj\Debug\TaskManagement.Properties.Resources.resources
+C:\Users\Admin\Desktop\Salma Elsayed W3\TaskManagement\TaskManagement\obj\Debug\TaskManagement.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Salma Elsayed W3\TaskManagement\TaskManagement\obj\Debug\TaskManagement.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Salma Elsayed W3\TaskManagement\TaskManagement\obj\Debug\TaskMana.75ABC965.Up2Date
+C:\Users\Admin\Desktop\Salma Elsayed W3\TaskManagement\TaskManagement\obj\Debug\TaskManagement.exe
+C:\Users\Admin\Desktop\Salma Elsayed W3\TaskManagement\TaskManagement\obj\Debug\TaskManagement.pdb
+C:\Users\Admin\Desktop\Salma Elsayed- W3- 0523076\TaskManagement\TaskManagement\bin\Debug\TaskManagement.exe.config
+C:\Users\Admin\Desktop\Salma Elsayed- W3- 0523076\TaskManagement\TaskManagement\bin\Debug\TaskManagement.exe
+C:\Users\Admin\Desktop\Salma Elsayed- W3- 0523076\TaskManagement\TaskManagement\bin\Debug\TaskManagement.pdb
+C:\Users\Admin\Desktop\Salma Elsayed- W3- 0523076\TaskManagement\TaskManagement\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\Salma Elsayed- W3- 0523076\TaskManagement\TaskManagement\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Salma Elsayed- W3- 0523076\TaskManagement\TaskManagement\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\Salma Elsayed- W3- 0523076\TaskManagement\TaskManagement\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\Salma Elsayed- W3- 0523076\TaskManagement\TaskManagement\obj\Debug\TaskManagement.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Salma Elsayed- W3- 0523076\TaskManagement\TaskManagement\obj\Debug\Admin.g.cs
+C:\Users\Admin\Desktop\Salma Elsayed- W3- 0523076\TaskManagement\TaskManagement\obj\Debug\LogIn.g.cs
+C:\Users\Admin\Desktop\Salma Elsayed- W3- 0523076\TaskManagement\TaskManagement\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\Salma Elsayed- W3- 0523076\TaskManagement\TaskManagement\obj\Debug\ViewTask.g.cs
+C:\Users\Admin\Desktop\Salma Elsayed- W3- 0523076\TaskManagement\TaskManagement\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\Salma Elsayed- W3- 0523076\TaskManagement\TaskManagement\obj\Debug\TaskManagement_Content.g.cs
+C:\Users\Admin\Desktop\Salma Elsayed- W3- 0523076\TaskManagement\TaskManagement\obj\Debug\TaskManagement_MarkupCompile.cache
+C:\Users\Admin\Desktop\Salma Elsayed- W3- 0523076\TaskManagement\TaskManagement\obj\Debug\TaskManagement_MarkupCompile.lref
+C:\Users\Admin\Desktop\Salma Elsayed- W3- 0523076\TaskManagement\TaskManagement\obj\Debug\Admin.baml
+C:\Users\Admin\Desktop\Salma Elsayed- W3- 0523076\TaskManagement\TaskManagement\obj\Debug\LogIn.baml
+C:\Users\Admin\Desktop\Salma Elsayed- W3- 0523076\TaskManagement\TaskManagement\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\Salma Elsayed- W3- 0523076\TaskManagement\TaskManagement\obj\Debug\ViewTask.baml
+C:\Users\Admin\Desktop\Salma Elsayed- W3- 0523076\TaskManagement\TaskManagement\obj\Debug\TaskManagement.g.resources
+C:\Users\Admin\Desktop\Salma Elsayed- W3- 0523076\TaskManagement\TaskManagement\obj\Debug\TaskManagement.Properties.Resources.resources
+C:\Users\Admin\Desktop\Salma Elsayed- W3- 0523076\TaskManagement\TaskManagement\obj\Debug\TaskManagement.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Salma Elsayed- W3- 0523076\TaskManagement\TaskManagement\obj\Debug\TaskManagement.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Salma Elsayed- W3- 0523076\TaskManagement\TaskManagement\obj\Debug\TaskMana.75ABC965.Up2Date
+C:\Users\Admin\Desktop\Salma Elsayed- W3- 0523076\TaskManagement\TaskManagement\obj\Debug\TaskManagement.exe
+C:\Users\Admin\Desktop\Salma Elsayed- W3- 0523076\TaskManagement\TaskManagement\obj\Debug\TaskManagement.pdb
+C:\Users\Admin\Desktop\Salma Elsayed- W3- 0523076\TaskManagement\TaskManagement\obj\Debug\SignUp.g.cs
+C:\Users\Admin\Desktop\Salma Elsayed- W3- 0523076\TaskManagement\TaskManagement\obj\Debug\SignUp.baml

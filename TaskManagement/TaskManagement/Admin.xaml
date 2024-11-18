@@ -1,0 +1,64 @@
+﻿<Page x:Class="TaskManagement.Admin"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:TaskManagement"
+      mc:Ignorable="d" 
+      d:DesignHeight="500" d:DesignWidth="800"
+      Title="Admin">
+    <ScrollViewer>
+        <Grid>
+            <Grid.Background>
+                <ImageBrush ImageSource="/images.jpg"/>
+            </Grid.Background>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="70"/>
+                <RowDefinition Height="70"/>
+                <RowDefinition Height="70"/>
+                <RowDefinition Height="70"/>
+                <RowDefinition Height="auto"/>
+            </Grid.RowDefinitions>
+            <StackPanel Grid.Row="0" Orientation="Horizontal">
+                <Label Content="Task ID" Width="100" FontSize="25" Margin="30 0"  Height="40"/>
+                <TextBox Name="taskidtxt"  Width="100" FontSize="25" Margin="30 0"  Height="40"/>
+                <Label Content="Status" Width="100" FontSize="25" Margin="30 0"  Height="40"/>
+                <ComboBox Name="adStatusCombo" Width="150" Height="40" SelectionChanged="adStatusCombo_SelectionChanged">
+                    <ComboBoxItem Content="Completed"/>
+                    <ComboBoxItem Content="Pending"/>
+                    <ComboBoxItem Content="In Progress"/>
+                </ComboBox>
+            </StackPanel>
+
+            <StackPanel Grid.Row="1" Orientation="Horizontal">
+                <Label Content="Title" Width="100" FontSize="25" Margin="30 0"  Height="40"/>
+                <TextBox Name="titletxt"  Width="100" FontSize="25" Margin="30 0"  Height="40"/>
+                <Label Content="Email" Width="100" FontSize="25" Margin="30 0"  Height="40"/>
+                <TextBox Name="emailtxt"  Width="100" FontSize="25" Margin="30 0"  Height="40"/>
+            </StackPanel>
+
+            <StackPanel Grid.Row="2" Orientation="Horizontal">
+                <Label Content="Description" Width="200" FontSize="25" Margin="30 0"  Height="40"/>
+                <TextBox Name="desctxt"  Width="200" FontSize="25" Margin="30 0"  Height="40"/>
+            </StackPanel>
+
+            <StackPanel Grid.Row="3" Orientation="Horizontal">
+                <Button Name="AddB" Content="Add" Margin="50 0" Width="100" Height="50" FontSize="28" Click="AddB_Click"/>
+                <Button Name="EditB" Content="Edit" Margin="100 0" Width="100" Height="50" FontSize="28" Click="EditB_Click"/>
+                <Button Name="DelB" Content="Delete" Margin="100 0" Width="100" Height="50" FontSize="28" Click="DelB_Click"/>
+            </StackPanel>
+
+            <StackPanel Grid.Row="5">
+                <DataGrid x:Name="adminDG" AutoGenerateColumns="False">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="Employee email" Binding="{Binding User.Email}" Width="*" FontSize="10"/>
+                        <DataGridTextColumn Header="Task ID" Binding="{Binding TaskId}" Width="*" FontSize="10"/>
+                        <DataGridTextColumn Header="Title" Binding="{Binding Title}" Width="*" FontSize="10"/>
+                        <DataGridTextColumn Header="Description" Binding="{Binding Description}" Width="*" FontSize="10"/>
+                        <DataGridTextColumn Header="Status" Binding="{Binding Status}" Width="*" FontSize="10"/>
+                    </DataGrid.Columns>
+                </DataGrid>
+            </StackPanel>
+        </Grid>
+    </ScrollViewer>
+</Page>

@@ -1,0 +1,39 @@
+﻿<Page x:Class="TaskManagement.LogIn"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:TaskManagement"
+      mc:Ignorable="d" 
+      d:DesignHeight="500" d:DesignWidth="400"
+      Title="LogIn">
+
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/images.jpg"/>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="70"/>
+            <RowDefinition Height="100"/>
+            <RowDefinition Height="100"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Row="0" Orientation="Vertical">
+            <Label Content="Log In" Width="110" FontSize="30"/>
+        </StackPanel>
+        <StackPanel Grid.Row="1" Orientation="Horizontal">
+            <Label Content="Email" Width="110" Height="50" FontSize="30"/>
+            <TextBox x:Name="logemailtxt" Width="200" Height="50" />
+        </StackPanel>
+        <StackPanel Grid.Row="2" Orientation="Horizontal">
+            <Label Content="PassW" Width="110" Height="50" FontSize="30"/>
+            <TextBox x:Name="logpasstxt" Width="200" Height="50" />
+        </StackPanel>
+        <StackPanel Grid.Row="3" Orientation="Horizontal">
+            <Button x:Name="loginB" Content="Log In" Width="100" Margin="50" Height="50" FontSize="28" Click="loginB_Click"/>
+            <Button x:Name="signupB" Content="Sign Up" Width="100" Margin="30" Height="50" FontSize="28" Click="signupB_Click" />
+
+        </StackPanel>
+    </Grid>
+</Page>

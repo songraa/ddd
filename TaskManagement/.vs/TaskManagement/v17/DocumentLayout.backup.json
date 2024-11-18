@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Salma Elsayed- W3- 0523076\\TaskManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F9DD972-A224-4B3F-BB8D-8700CC5BC9FF}|TaskManagement\\TaskManagement.csproj|c:\\users\\admin\\desktop\\salma elsayed- w3- 0523076\\taskmanagement\\taskmanagement\\signup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F9DD972-A224-4B3F-BB8D-8700CC5BC9FF}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\signup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F9DD972-A224-4B3F-BB8D-8700CC5BC9FF}|TaskManagement\\TaskManagement.csproj|c:\\users\\admin\\desktop\\salma elsayed- w3- 0523076\\taskmanagement\\taskmanagement\\viewtask.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F9DD972-A224-4B3F-BB8D-8700CC5BC9FF}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\viewtask.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F9DD972-A224-4B3F-BB8D-8700CC5BC9FF}|TaskManagement\\TaskManagement.csproj|c:\\users\\admin\\desktop\\salma elsayed- w3- 0523076\\taskmanagement\\taskmanagement\\signup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2F9DD972-A224-4B3F-BB8D-8700CC5BC9FF}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\signup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F9DD972-A224-4B3F-BB8D-8700CC5BC9FF}|TaskManagement\\TaskManagement.csproj|c:\\users\\admin\\desktop\\salma elsayed- w3- 0523076\\taskmanagement\\taskmanagement\\admin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F9DD972-A224-4B3F-BB8D-8700CC5BC9FF}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\admin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F9DD972-A224-4B3F-BB8D-8700CC5BC9FF}|TaskManagement\\TaskManagement.csproj|C:\\Users\\Admin\\Desktop\\Salma Elsayed- W3- 0523076\\TaskManagement\\taskmanagement\\viewtask.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2F9DD972-A224-4B3F-BB8D-8700CC5BC9FF}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\viewtask.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F9DD972-A224-4B3F-BB8D-8700CC5BC9FF}|TaskManagement\\TaskManagement.csproj|C:\\Users\\Admin\\Desktop\\Salma Elsayed- W3- 0523076\\TaskManagement\\taskmanagement\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2F9DD972-A224-4B3F-BB8D-8700CC5BC9FF}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F9DD972-A224-4B3F-BB8D-8700CC5BC9FF}|TaskManagement\\TaskManagement.csproj|C:\\Users\\Admin\\Desktop\\Salma Elsayed- W3- 0523076\\TaskManagement\\taskmanagement\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F9DD972-A224-4B3F-BB8D-8700CC5BC9FF}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F9DD972-A224-4B3F-BB8D-8700CC5BC9FF}|TaskManagement\\TaskManagement.csproj|C:\\Users\\Admin\\Desktop\\Salma Elsayed- W3- 0523076\\TaskManagement\\taskmanagement\\admin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2F9DD972-A224-4B3F-BB8D-8700CC5BC9FF}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\admin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F9DD972-A224-4B3F-BB8D-8700CC5BC9FF}|TaskManagement\\TaskManagement.csproj|C:\\Users\\Admin\\Desktop\\Salma Elsayed- W3- 0523076\\TaskManagement\\taskmanagement\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2F9DD972-A224-4B3F-BB8D-8700CC5BC9FF}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ViewTask.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Salma Elsayed- W3- 0523076\\TaskManagement\\TaskManagement\\ViewTask.xaml.cs",
+              "RelativeDocumentMoniker": "TaskManagement\\ViewTask.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Salma Elsayed- W3- 0523076\\TaskManagement\\TaskManagement\\ViewTask.xaml.cs",
+              "RelativeToolTip": "TaskManagement\\ViewTask.xaml.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwDMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T11:28:43.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SignUp.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Salma Elsayed- W3- 0523076\\TaskManagement\\TaskManagement\\SignUp.xaml.cs",
+              "RelativeDocumentMoniker": "TaskManagement\\SignUp.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Salma Elsayed- W3- 0523076\\TaskManagement\\TaskManagement\\SignUp.xaml.cs",
+              "RelativeToolTip": "TaskManagement\\SignUp.xaml.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAwC4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T11:05:50.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SignUp.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Salma Elsayed- W3- 0523076\\TaskManagement\\TaskManagement\\SignUp.xaml",
+              "RelativeDocumentMoniker": "TaskManagement\\SignUp.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Salma Elsayed- W3- 0523076\\TaskManagement\\TaskManagement\\SignUp.xaml",
+              "RelativeToolTip": "TaskManagement\\SignUp.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-18T10:55:57.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Admin.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Salma Elsayed- W3- 0523076\\TaskManagement\\TaskManagement\\Admin.xaml.cs",
+              "RelativeDocumentMoniker": "TaskManagement\\Admin.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Salma Elsayed- W3- 0523076\\TaskManagement\\TaskManagement\\Admin.xaml.cs",
+              "RelativeToolTip": "TaskManagement\\Admin.xaml.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAIwEYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T07:55:48.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ViewTask.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Salma Elsayed- W3- 0523076\\TaskManagement\\TaskManagement\\ViewTask.xaml",
+              "RelativeDocumentMoniker": "TaskManagement\\ViewTask.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Salma Elsayed- W3- 0523076\\TaskManagement\\TaskManagement\\ViewTask.xaml",
+              "RelativeToolTip": "TaskManagement\\ViewTask.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-17T07:17:16.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LogIn.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Salma Elsayed- W3- 0523076\\TaskManagement\\TaskManagement\\LogIn.xaml",
+              "RelativeDocumentMoniker": "TaskManagement\\LogIn.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Salma Elsayed- W3- 0523076\\TaskManagement\\TaskManagement\\LogIn.xaml",
+              "RelativeToolTip": "TaskManagement\\LogIn.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-17T07:07:34.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LogIn.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Salma Elsayed- W3- 0523076\\TaskManagement\\TaskManagement\\LogIn.xaml.cs",
+              "RelativeDocumentMoniker": "TaskManagement\\LogIn.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Salma Elsayed- W3- 0523076\\TaskManagement\\TaskManagement\\LogIn.xaml.cs",
+              "RelativeToolTip": "TaskManagement\\LogIn.xaml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAIAzwDAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T07:48:49.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Admin.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Salma Elsayed- W3- 0523076\\TaskManagement\\TaskManagement\\Admin.xaml",
+              "RelativeDocumentMoniker": "TaskManagement\\Admin.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Salma Elsayed- W3- 0523076\\TaskManagement\\TaskManagement\\Admin.xaml",
+              "RelativeToolTip": "TaskManagement\\Admin.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-17T07:33:42.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Salma Elsayed- W3- 0523076\\TaskManagement\\TaskManagement\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "TaskManagement\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Salma Elsayed- W3- 0523076\\TaskManagement\\TaskManagement\\MainWindow.xaml",
+              "RelativeToolTip": "TaskManagement\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-17T09:03:44.223Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

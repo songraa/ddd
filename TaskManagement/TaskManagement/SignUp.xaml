@@ -1,0 +1,59 @@
+﻿<Page x:Class="TaskManagement.SignUp"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:TaskManagement"
+      mc:Ignorable="d" 
+      d:DesignHeight="700" d:DesignWidth="400"
+      Title="SignUp">
+    <ScrollViewer>
+
+    <Grid>
+            <Grid.Background>
+                <ImageBrush ImageSource="/images.jpg"/>
+            </Grid.Background>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="70"/>
+                <RowDefinition Height="100"/>
+                <RowDefinition Height="100"/>
+                <RowDefinition Height="100"/>
+                <RowDefinition Height="100"/>
+                <RowDefinition Height="100"/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+
+            <StackPanel Grid.Row="0" Orientation="Vertical">
+                <Label Content="Sign Up" Width="120" FontSize="30"/>
+            </StackPanel>
+            <StackPanel Grid.Row="1" Orientation="Horizontal">
+                <Label Content="Name" Width="130" Height="50" FontSize="30"/>
+                <TextBox x:Name="signnametxt" Width="200" Height="50" FontSize="24"/>
+            </StackPanel>
+           
+            <StackPanel Grid.Row="2" Orientation="Horizontal">
+                <Label Content="Email" Width="130" Height="50" FontSize="30"/>
+                <TextBox x:Name="signemailtxt" Width="200" Height="50" FontSize="24"/>
+            </StackPanel>
+        
+            <StackPanel Grid.Row="3" Orientation="Horizontal">
+                <Label Content="PassW" Width="130" Height="50" FontSize="30"/>
+                <TextBox x:Name="signpasstxt" Width="200" Height="50" FontSize="24"/>
+            </StackPanel>
+
+            <StackPanel Grid.Row="4" Orientation="Horizontal">
+                <Label Content="Confirm" Width="130" Height="50" FontSize="30"/>
+                <TextBox x:Name="signcopasstxt" Width="200" Height="50" FontSize="24"/>
+            </StackPanel>
+
+            <StackPanel Grid.Row="5" Orientation="Horizontal">
+                <Label Content="Role" Width="130" Height="50" FontSize="30"/>
+                <TextBox x:Name="signroletxt" Width="200" Height="50" FontSize="24"/>
+            </StackPanel>
+            <StackPanel Grid.Row="6" Orientation="Vertical">
+                <Button x:Name="sssignupB" Content="Sign Up" Width="100" Height="50" FontSize="28" Click="signupB_Click" />
+
+            </StackPanel>
+        </Grid>
+    </ScrollViewer>
+</Page>
